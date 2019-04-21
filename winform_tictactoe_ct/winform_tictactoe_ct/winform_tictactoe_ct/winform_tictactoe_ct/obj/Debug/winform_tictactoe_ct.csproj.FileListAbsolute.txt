@@ -1,0 +1,12 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\winform_tictactoe_ct\winform_tictactoe_ct\bin\Debug\winform_tictactoe_ct.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\winform_tictactoe_ct\winform_tictactoe_ct\bin\Debug\winform_tictactoe_ct.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\winform_tictactoe_ct\winform_tictactoe_ct\bin\Debug\winform_tictactoe_ct.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\winform_tictactoe_ct\winform_tictactoe_ct\obj\Debug\winform_tictactoe_ct.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\winform_tictactoe_ct\winform_tictactoe_ct\obj\Debug\winform_tictactoe_ct.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\winform_tictactoe_ct\winform_tictactoe_ct\obj\Debug\winform_tictactoe_ct.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\winform_tictactoe_ct\winform_tictactoe_ct\obj\Debug\winform_tictactoe_ct.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\winform_tictactoe_ct\winform_tictactoe_ct\bin\Debug\winform_tictactoe_ct.exe.manifest
+C:\Users\User\Documents\Visual Studio 2012\Projects\winform_tictactoe_ct\winform_tictactoe_ct\bin\Debug\winform_tictactoe_ct.application
+C:\Users\User\Documents\Visual Studio 2012\Projects\winform_tictactoe_ct\winform_tictactoe_ct\obj\Debug\winform_tictactoe_ct.exe.manifest
+C:\Users\User\Documents\Visual Studio 2012\Projects\winform_tictactoe_ct\winform_tictactoe_ct\obj\Debug\winform_tictactoe_ct.application
+C:\Users\User\Documents\Visual Studio 2012\Projects\winform_tictactoe_ct\winform_tictactoe_ct\obj\Debug\winform_tictactoe_ct.formTicTacToe.resources
