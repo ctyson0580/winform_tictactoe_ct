@@ -16,7 +16,7 @@ namespace winform_tictactoe_ct
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new formTicTacToe());
         }
     }
 }

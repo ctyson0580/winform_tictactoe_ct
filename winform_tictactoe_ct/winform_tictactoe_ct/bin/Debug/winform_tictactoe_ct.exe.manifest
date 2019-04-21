@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="winform_tictactoe_ct.exe" size="391168">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="winform_tictactoe_ct.exe" size="391680">
       <assemblyIdentity name="winform_tictactoe_ct" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>n3bQd2rBkrMsXZ8LGe2fLL9+yb4Ulh7juCmx/T57Bao=</dsig:DigestValue>
+        <dsig:DigestValue>0leagvcLLljEVXbqWIht7nsWO35G1ZvTzdTDZv9qFuU=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

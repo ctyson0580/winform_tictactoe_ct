@@ -10,14 +10,14 @@ using System.Windows.Forms;
 
 namespace winform_tictactoe_ct
 {
-    public partial class Form1 : Form
+    public partial class formTicTacToe : Form
     {
         //global vars
         bool isPlayer2Turn = false;
         int turnCount = 0;
         string currentPlayer = "X";          
 
-        public Form1()
+        public formTicTacToe()
         {
             InitializeComponent();
             resetBoard();
